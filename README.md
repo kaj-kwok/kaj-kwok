@@ -8,7 +8,7 @@ Vancouver, BC
 [Click Here](https://resume.creddle.io/resume/8xbo4kbd6hl)
 
 ### Current Stack
-Javascript, Express, React, PostgresSQL
+Javascript, Express, React, PostgresSQL, NextJS, MongoDB
 
 
 <!--
