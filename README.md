@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 # I'm Ryan Kwok
-Aspiring full-stack developer contributing over 9 years of experience from the technical support/coaching side of the software industry. Looking to fulfill my passion and curiosity for creating and problem solving by pivoting to the software development side of the industry.
+Full-stack developer currently in the UI5 Webspace. Looking to fulfill my passion and curiosity for creating and problem solving by pivoting to the software development side of the industry.
 Vancouver, BC
 
 ### Resume
 [Click Here](https://resume.creddle.io/resume/8xbo4kbd6hl)
 
 ### Current Stack
-Javascript, Express, React, PostgresSQL, NextJS, MongoDB
+Javascript, Express, React, PostgresSQL, NextJS, MongoDB, UI5
 
 
 <!--
